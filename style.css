@@ -24,6 +24,10 @@ header{
     display: flex;
     justify-content: flex-end;
 }
+.Image{
+    margin-top: 8.66vh;
+    width: 100%;
+}
 body{
     margin: 0;
     padding: 0;
