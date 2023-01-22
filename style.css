@@ -1,0 +1,30 @@
+header{
+    position: fixed;
+    height: 8.66vh;
+    width: 100%;
+    background-color: #007765;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+}
+.Logo{
+    width: 18.98vh;
+    height: 4.64vh;
+}
+.Margin{
+    margin-left: 0.82vh;
+    margin-right: 0.82vh;
+}
+.Text{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 24px;
+    color: white;
+    font-style: normal;
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
